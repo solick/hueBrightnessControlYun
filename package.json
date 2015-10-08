@@ -1,0 +1,22 @@
+{
+  "name": "huebrightnesscontrolyun",
+  "version": "0.0.1",
+  "description": "controlling a hue system based on brightness detected on a Arduino Yun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "philips",
+    "hue",
+    "Arduino",
+    "Yun"
+  ],
+  "author": "Lyn Matten",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.10.3",
+    "node-hue-api": "^1.0.5",
+    "q": "^1.4.1"
+  }
+}
