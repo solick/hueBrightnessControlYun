@@ -12,6 +12,6 @@ A simple program to control the philips hue scenes based on detected brightness 
     * access token of philips hue api
 * Run program
  
-of Course you need to have the Arduino Yun and curcuit to read out the brightness. Please follow the instruction here: XXX
+of Course you need to have the Arduino Yun and curcuit to read out the brightness. Please follow the instruction here: http://lm-consult.com/wp/projects/brightness-dependent-philips-hue-control-with-arduino-yun/
 
    
